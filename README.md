@@ -7,14 +7,6 @@ Description
 -----------
 Ce dépôt contient des fichiers et scripts liés à la configuration et à la gestion d'un cluster Kubernetes. Le point d'entrée principal pour l'installation est le fichier `Install_Cluster.md` (lien ci‑dessus).
 
-Structure du dépôt
-------------------
-- `Install_Cluster.md` — Documentation d'installation du cluster (redirection principale).
-- docs/ — Documentation additionnelle (si présente).
-- manifests/ — Manifests Kubernetes (Deployments, Services, ConfigMaps...).
-- scripts/ — Scripts d'automatisation (provisioning, déploiement, sauvegarde).
-- README.md — Ce fichier.
-
 Prérequis
 ---------
 - Git
