@@ -112,6 +112,7 @@ vrrp_instance VI_1 {
 ```
 ```bash
 systemctl restart keepalived haproxy
+systemctl enable keepalived haproxy
 ```
 
 ### Prérequis de longhorn
